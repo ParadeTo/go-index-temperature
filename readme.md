@@ -1,0 +1,1 @@
+A system to get fund's index temperature
