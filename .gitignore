@@ -1,1 +1,4 @@
 .idea
+verdor/
+
+!vendor/verdor.json
