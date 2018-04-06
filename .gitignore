@@ -1,4 +1,4 @@
 .idea
-verdor/
+vendor/
 
-!vendor/verdor.json
+!vendor/vendor.json
